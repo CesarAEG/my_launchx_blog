@@ -9,7 +9,7 @@ Te invito a conocer mis aprendizajes, proyectos y leer mis experiencias.
 
 Mis expectativas para este proyecto son: 
 
--- Aprender a utilizar Git y GitHub de manera eficiente.
+- Aprender a utilizar Git y GitHub de manera eficiente.
 - Aplicar mis conocimientos de front-end a proyectos específicos.
 - Desarrollar mis conocimientos de back-end.
 - Generar proyectos donde pueda demostrar mis habilidades como fullstack dev.
